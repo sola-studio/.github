@@ -1,5 +1,3 @@
-# .github
-
 # Sola Studio
 
 Sola Studio is an independent frontend-focused practice based in Japan, working with EU and UK product teams on frontend implementation, accessibility readiness, and practical product support.
