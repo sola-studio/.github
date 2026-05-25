@@ -1,6 +1,6 @@
 # Sola Studio
 
-Sola Studio is an independent frontend-focused practice working across frontend implementation, accessibility readiness, UI/UX review, and Japan-facing product clarity.
+Sola Studio is an independent frontend-focused practice working across frontend implementation, accessibility review and remediation, UI/UX review, and Japan-facing product clarity.
 
 The studio is run by Yoko Shiina, a frontend engineer and UX-aware consultant working across React, Next.js, TypeScript, API integration, data flow, accessible web development, and product-facing communication.
 
@@ -10,7 +10,8 @@ Sola Studio supports teams that need practical help where interface, wording, us
 
 - Frontend implementation with React, Next.js, and TypeScript
 - Accessibility-aware UI implementation
-- Accessibility readiness review against WCAG 2.2 AA
+- Accessibility review against WCAG 2.2 AA
+- Accessibility remediation support for selected issues, screens, flows, or components
 - UI/UX review for pages, forms, flows, and product screens
 - Japan-facing UX and messaging review
 - Product-facing engineering support
@@ -26,17 +27,23 @@ Ongoing frontend implementation support inside an existing team and codebase.
 
 Useful when frontend work needs to keep moving, but opening a full-time role is not the right next step.
 
+### Accessibility Review
+
+A structured review of selected pages and flows against WCAG 2.2 AA, with prioritised findings, remediation candidates, and practical next steps.
+
+Relevant for products preparing for accessibility improvement, remediation planning, or EAA-related review.
+
+### Accessibility Remediation Support
+
+Frontend implementation support for selected accessibility issues, screens, flows, or components, based on an Accessibility Review, existing audit report, internal issue list, automated check results, or known accessibility issues.
+
+Useful when accessibility issues have already been identified and the team needs practical implementation support within an agreed scope.
+
 ### Japan Bridge
 
 Japan-facing UX and messaging review for EU/UK teams preparing or improving a Japanese page, offer, product flow, or enquiry path.
 
 Useful when Japanese copy looks fluent, but the team needs to understand whether the page, offer, trust signals, information order, and decision flow are likely to make sense to Japanese users.
-
-### Accessibility Readiness Review
-
-A structured review of selected pages and flows against WCAG 2.2 AA, with prioritised issues and practical next steps.
-
-Relevant for products preparing for accessibility improvement, remediation planning, or EAA-related review.
 
 ### UI/UX Improvement Review
 
@@ -64,6 +71,8 @@ Designed for practical next steps without reopening a full engagement each time.
 - Tailwind CSS
 - Radix UI
 - Semantic HTML
+- ARIA cleanup
+- Keyboard and focus behaviour
 - Accessibility-aware frontend implementation
 - API integration
 - Data-flow collaboration
