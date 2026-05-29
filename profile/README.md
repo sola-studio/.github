@@ -1,25 +1,24 @@
 # Sola Studio
 
-Sola Studio is an independent frontend-focused practice supporting teams with frontend implementation, accessibility review and remediation, UI/UX review, and Japan-facing product clarity.
+Sola Studio is an independent frontend-focused practice run by Yoko Shiina.
 
-The studio is run by Yoko Shiina, a frontend engineer and UX-aware consultant with experience in React, Next.js, TypeScript, API integration, data flow, accessible web development, and product-facing communication.
+The studio supports teams with frontend implementation, accessibility-aware UI, accessibility review and remediation, UI/UX review, Japan-facing UX and messaging review, and product-facing web support.
 
-Sola Studio supports teams that need practical help when interface, wording, user flow, accessibility, implementation, and market-facing context need to be considered together.
+The work sits around the practical overlap between interface, wording, user flow, accessibility, implementation, API/data flow, and market-facing context.
 
 ## Focus areas
 
-- Frontend implementation with React, Next.js, and TypeScript
+- React / Next.js / TypeScript frontend implementation
 - Accessibility-aware UI implementation
-- Accessibility review against WCAG 2.2 AA
-- Accessibility remediation support for selected issues, screens, flows, or components
+- Accessibility review and remediation support
 - UI/UX review for pages, forms, flows, and product screens
 - Japan-facing UX and messaging review
 - Product-facing engineering support
-- UI, code, API, and data-flow collaboration
-- Product, screen, and communication clarity
+- API and data-flow collaboration
+- Internal tools, admin screens, dashboards, and product interfaces
 - Async-ready collaboration with product teams
 
-## Current services
+## Services
 
 ### Frontend Partner
 
@@ -27,17 +26,11 @@ Ongoing frontend implementation support inside an existing team and codebase.
 
 Useful when frontend work needs to keep moving, but opening a full-time role is not the right next step.
 
-### Accessibility Review
+### Accessibility Review & Remediation Support
 
-A structured review of selected pages and flows against WCAG 2.2 AA, with prioritised findings, remediation candidates, and practical next steps.
+Scoped accessibility review of selected pages, flows, and interface patterns, with prioritised findings and practical next steps.
 
-Relevant for products preparing for accessibility improvement, remediation planning, or EAA-related review.
-
-### Accessibility Remediation Support
-
-Frontend implementation support for selected accessibility issues, screens, flows, or components, based on an Accessibility Review, existing audit report, internal issue list, automated check results, or known accessibility issues.
-
-Useful when accessibility issues have already been identified and the team needs practical implementation support within an agreed scope.
+Remediation support is available for agreed accessibility issues, based on a review, audit report, internal issue list, automated check results, or existing findings.
 
 ### Japan Bridge
 
@@ -45,23 +38,9 @@ Japan-facing UX and messaging review for EU/UK teams preparing or improving a Ja
 
 Useful when Japanese copy looks fluent, but the team needs to understand whether the page, offer, trust signals, information order, and decision flow are likely to make sense to Japanese users.
 
-### UI/UX Improvement Review
+### UI/UX and product clarity support
 
-A scoped review of existing pages, forms, user flows, web apps, or internal screens to identify likely friction points, unclear wording, decision-flow issues, and improvement directions.
-
-Useful before redesign, implementation planning, or further product improvement work.
-
-### Frontend screen design and development support
-
-Support for internal tools, admin screens, dashboards, UI specifications, and implementation.
-
-Useful when requirements, UI structure, data flow, and implementation constraints need to be clarified together.
-
-### Additional support after delivery
-
-Follow-up consultation, PR review, and scoped implementation support after a project wraps up.
-
-Designed for practical next steps without reopening a full engagement each time.
+Review and structuring support for existing pages, forms, user flows, web apps, internal screens, early product ideas, and implementation-facing screen decisions.
 
 ## Technical focus
 
