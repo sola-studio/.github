@@ -34,9 +34,9 @@ Remediation support is available for agreed accessibility issues, based on a rev
 
 ### Japan Bridge
 
-Japan-facing UX and messaging review for EU/UK teams preparing or improving a Japanese page, offer, product flow, or enquiry path.
+Japan-facing UX and messaging review for EU/UK teams preparing or improving a Japanese page, message, material, product flow, or enquiry path.
 
-Useful when Japanese copy looks fluent, but the team needs to understand whether the page, offer, trust signals, information order, and decision flow are likely to make sense to Japanese users.
+Useful when Japanese copy looks fluent, but the team needs to understand whether the page, message, material, offer, trust signals, information order, and decision flow are likely to make sense to Japanese users.
 
 ### UI/UX and product clarity support
 
