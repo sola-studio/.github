@@ -2,7 +2,7 @@
 
 Sola Studio is an independent frontend-focused practice run by Yoko Shiina.
 
-The studio supports teams with frontend implementation, accessibility-aware UI, accessibility review and remediation, UI/UX review, Japan-facing UX and messaging review, and product-facing web support.
+The studio supports teams with frontend implementation, accessibility-aware UI, accessibility review and remediation, UI/UX review, Japan-facing UX and messaging support, and product-facing web support.
 
 The work sits around the practical overlap between interface, wording, user flow, accessibility, implementation, API/data flow, and market-facing context.
 
@@ -12,7 +12,7 @@ The work sits around the practical overlap between interface, wording, user flow
 - Accessibility-aware UI implementation
 - Accessibility review and remediation support
 - UI/UX review for pages, forms, flows, and product screens
-- Japan-facing UX and messaging review
+- Japan-facing UX and messaging support
 - Product-facing engineering support
 - API and data-flow collaboration
 - Internal tools, admin screens, dashboards, and product interfaces
@@ -34,9 +34,14 @@ Remediation support is available for agreed accessibility issues, based on a rev
 
 ### Japan Bridge
 
-Japan-facing UX and messaging review for EU/UK teams preparing or improving a Japanese page, message, material, product flow, or enquiry path.
+Japan-facing UX, messaging, structure, Japanese copy direction, and review support for EU/UK teams preparing or improving Japanese pages, messages, materials, customer journeys, or enquiry paths.
 
-Useful when Japanese copy looks fluent, but the team needs to understand whether the page, message, material, offer, trust signals, information order, and decision flow are likely to make sense to Japanese users.
+Useful when translated Japanese copy is not enough on its own, and the team needs to understand what Japanese users may need to trust, understand, compare, ask, sign up, buy, reply, or move forward.
+
+Japan Bridge includes two main entry points:
+
+- Website UX & Messaging Design — for teams preparing a Japan-facing website, landing page, or service page before design, localisation, or production.
+- Japan Bridge Review — for teams that already have reviewable Japanese pages, messages, flows, or materials.
 
 ### UI/UX and product clarity support
 
