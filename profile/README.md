@@ -2,17 +2,17 @@
 
 Sola Studio is an independent frontend-focused practice run by Yoko Shiina.
 
-The studio supports teams with frontend implementation, accessibility-aware UI, accessibility review and remediation, UI/UX review, Japan-facing UX and messaging support, and product-facing web support.
+The studio supports teams with frontend implementation, Japan-facing UX and messaging support, accessibility-aware UI, accessibility review and remediation, UI/UX review, and product-facing web support.
 
-The work sits around the practical overlap between interface, wording, user flow, accessibility, implementation, API/data flow, and market-facing context.
+The work sits around the practical overlap between interface, wording, user flow, implementation, accessibility, API/data flow, and market-facing context.
 
 ## Focus areas
 
 - React / Next.js / TypeScript frontend implementation
+- Japan-facing UX and messaging support
 - Accessibility-aware UI implementation
 - Accessibility review and remediation support
 - UI/UX review for pages, forms, flows, and product screens
-- Japan-facing UX and messaging support
 - Product-facing engineering support
 - API and data-flow collaboration
 - Internal tools, admin screens, dashboards, and product interfaces
@@ -38,10 +38,10 @@ Japan-facing UX, messaging, structure, Japanese copy direction, and review suppo
 
 Useful when translated Japanese copy is not enough on its own, and the team needs to understand what Japanese users may need to trust, understand, compare, ask, sign up, buy, reply, or move forward.
 
-Japan Bridge includes two main entry points:
+Japan Bridge currently includes two main entry points:
 
-- Website UX & Messaging Design — for teams preparing a Japan-facing website, landing page, or service page before design, localisation, or production.
-- Japan Bridge Review — for teams that already have reviewable Japanese pages, messages, flows, or materials.
+- **Website UX & Messaging Design** — for teams preparing a Japan-facing website, landing page, or service page before design, localisation, or production.
+- **Japan Bridge Review** — for teams that already have reviewable Japanese pages, messages, flows, or materials.
 
 ### UI/UX and product clarity support
 
