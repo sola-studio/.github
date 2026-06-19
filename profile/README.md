@@ -71,4 +71,4 @@ Public repositories may be added where there is a clear reason to share code, do
 
 ## Website
 
-https://solastudio.studio/
+https://solastudio.studio/international
