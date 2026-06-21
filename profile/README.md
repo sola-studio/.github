@@ -79,4 +79,4 @@ Public repositories are shared where there is a clear reason to publish code, do
 
 ## Website
 
-https://solastudio.studio/international
+[https://solastudio.studio/](https://solastudio.studio/international)
