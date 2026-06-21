@@ -63,11 +63,19 @@ Review and structuring support for existing pages, forms, user flows, web apps, 
 - UI implementation for product screens, internal tools, and dashboards
 - Documentation and implementation notes for product-facing decisions
 
+## Open-source tools
+
+Sola Studio also publishes small open-source tools where they can be useful beyond a single project.
+
+- **Contrastly** — a lightweight color contrast checker for Tailwind CSS palettes, custom hex values, and semantic color token decisions.  
+  Live app: https://contrastly.solastudio.studio/  
+  Source code: https://github.com/sola-studio/contrastly
+
 ## Repository visibility
 
 Most Sola Studio repositories are private client or studio work.
 
-Public repositories may be added where there is a clear reason to share code, documentation, examples, or open resources.
+Public repositories are shared where there is a clear reason to publish code, documentation, examples, small tools, or open resources.
 
 ## Website
 
