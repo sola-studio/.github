@@ -2,9 +2,9 @@
 
 Sola Studio is an independent frontend-focused practice run by Yoko Shiina.
 
-The studio supports teams with frontend implementation, Japan-facing UX and messaging support, accessibility-aware UI, accessibility review and remediation, UI/UX review, and product-facing web support.
+The studio supports teams with frontend implementation, Japan-facing UX and messaging support, accessibility-aware UI, accessibility review and remediation, and practical support where interface, communication, and implementation decisions need to become clearer.
 
-The work sits around the practical overlap between interface, wording, user flow, implementation, accessibility, API/data flow, and market-facing context.
+The work sits around the practical overlap between interface behavior, wording, user flow, implementation, accessibility, API and data flow, and market-facing context.
 
 ## Focus areas
 
@@ -34,16 +34,17 @@ Remediation support is available for agreed accessibility issues, based on a rev
 
 ### Japan Bridge
 
-Japan-facing UX, messaging, structure, Japanese copy direction, and review support for teams preparing or improving Japanese pages, messages, materials, customer journeys, or inquiry paths.
+Japan-facing UX, messaging, structure, Japanese copy direction, and review support for teams preparing or improving pages, flows, messages, materials, customer journeys, or inquiry paths.
 
 Useful when translated Japanese copy is not enough on its own, and the team needs to understand what Japanese users may need to trust, understand, compare, ask, sign up, buy, reply, or move forward.
 
-Japan Bridge currently includes two main entry points:
+Japan Bridge currently includes three main entry routes:
 
-- **Website UX & Messaging Design** — for teams preparing a Japan-facing website, landing page, or service page before design, localization, or production.
+- **Website UX & Messaging Design** — for teams preparing a Japan-facing website, landing page, service page, or focused journey before design, localization, or production.
 - **Japan Bridge Review** — for teams that already have reviewable Japanese pages, messages, flows, or materials.
+- **Japan Bridge Friction Series** — for teams that want a lighter, more focused route centered on one existing Japan-facing conversion flow.
 
-### UI/UX and product clarity support
+### UI/UX and interface clarity support
 
 Review and structuring support for existing pages, forms, user flows, web apps, internal screens, early product ideas, and implementation-facing screen decisions.
 
@@ -79,4 +80,4 @@ Public repositories are shared where there is a clear reason to publish code, do
 
 ## Website
 
-[https://solastudio.studio/](https://solastudio.studio/international)
+[https://solastudio.studio/international](https://solastudio.studio/international)
