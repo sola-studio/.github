@@ -1,15 +1,15 @@
 # Sola Studio
 
-Sola Studio is an independent frontend-focused practice run by Yoko Shiina.
+Sola Studio is an independent frontend-focused practice run by [Yoko Shiina](https://github.com/yokoworks).
 
-The studio supports teams with frontend implementation, Japan-facing UX and messaging support, accessibility-aware UI, accessibility review and remediation, and practical support where interface, communication, and implementation decisions need to become clearer.
+The studio supports teams with frontend implementation, Japan-facing UX and messaging, Japan-facing review support, accessibility-aware UI, accessibility review and remediation, and practical support where interface, communication, and implementation decisions need to become clearer.
 
 The work sits around the practical overlap between interface behavior, wording, user flow, implementation, accessibility, API and data flow, and market-facing context.
 
 ## Focus areas
 
 - React / Next.js / TypeScript frontend implementation
-- Japan-facing UX and messaging support
+- Japan-facing UX, messaging, and review support
 - Accessibility-aware UI implementation
 - Accessibility review and remediation support
 - UI/UX review for pages, forms, flows, and product screens
@@ -34,14 +34,14 @@ Remediation support is available for agreed accessibility issues, based on a rev
 
 ### Japan Bridge
 
-Japan-facing UX, messaging, structure, Japanese copy direction, and review support for teams preparing or improving pages, flows, messages, materials, customer journeys, or inquiry paths.
+Japan-facing UX, messaging, structure, Japanese copy direction where relevant, and review support for teams preparing or improving Japan-facing pages, flows, messages, materials, customer journeys, or inquiry paths.
 
-Useful when translated Japanese copy is not enough on its own, and the team needs to understand what Japanese users may need to trust, understand, compare, ask, sign up, buy, reply, or move forward.
+Useful when translated Japanese copy is not enough on its own, and the team needs to understand what users may need to trust, understand, compare, ask, sign up, buy, reply, or move forward in a Japan-facing context.
 
 Japan Bridge currently includes three main entry routes:
 
-- **Website UX & Messaging Design** — for teams preparing a Japan-facing website, landing page, service page, or focused journey before design, localization, or production.
-- **Japan Bridge Review** — for teams that already have reviewable Japanese pages, messages, flows, or materials.
+- **Japan Bridge UX & Messaging Design** — for teams preparing a Japan-facing page, flow, form, service explanation, or related customer-facing touchpoint before design, localization, or production.
+- **Japan Bridge Review** — for teams that already have reviewable Japan-facing pages, messages, flows, or materials.
 - **Japan Bridge Friction Series** — for teams that want a lighter, more focused route centered on one existing Japan-facing conversion flow.
 
 ### UI/UX and interface clarity support
@@ -79,5 +79,4 @@ Most Sola Studio repositories are private client or studio work.
 Public repositories are shared where there is a clear reason to publish code, documentation, examples, small tools, or open resources.
 
 ## Website
-
 [https://solastudio.studio/international](https://solastudio.studio/international)
