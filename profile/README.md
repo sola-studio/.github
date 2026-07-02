@@ -42,7 +42,7 @@ Japan Bridge currently includes three main entry routes:
 
 - **Japan Bridge UX & Messaging Design** — for teams preparing a Japan-facing page, flow, form, service explanation, or related customer-facing touchpoint before design, localization, or production.
 - **Japan Bridge Review** — for teams that already have reviewable Japan-facing pages, messages, flows, or materials.
-- **Japan Bridge Friction Series** — for teams that want a lighter, more focused route centered on one existing Japan-facing conversion flow.
+- **Japan Bridge Friction Series** — for teams focused on one existing Japan-facing conversion flow, covering the path from a rough estimate of possible missed opportunity to friction visibility, correction specification, and implementation where needed.
 
 ### UI/UX and interface clarity support
 
