@@ -5,10 +5,7 @@
 Sola Studio is an independent frontend-focused practice run by
 [Yoko Shiina](https://github.com/yokoworks).
 
-The studio supports teams with frontend implementation, Japan-facing
-UX and messaging, accessibility-aware UI, and practical support where
-interface, communication, and implementation decisions need to become
-clearer.
+The studio supports teams with frontend implementation, UX and messaging, accessibility-aware UI, and practical support where interface, communication, and implementation decisions need to become clearer.
 
 ---
 
@@ -31,24 +28,6 @@ WCAG contrast quickly while working on UI color decisions.
 
 ---
 
-### Conversion Leak Estimator — Free Estimator for Japan-facing Conversion Friction
-
-![Conversion Leak Estimator demo](./images/estimator-preview.gif)
-
-A free browser-based estimator for putting a rough number on possible
-missed opportunity caused by friction on a Japan-facing conversion flow.
-
-Built as part of Japan Bridge Friction Series. Designed to make a
-problem that often stays vague easier to size, frame, and bring into
-internal discussion — using the user's own inputs and assumptions.
-
-**Stack:** Next.js / TypeScript / Tailwind CSS / Accessibility-aware UI
-
-- [Try the estimator](https://solastudio.studio/international/business/japan-bridge-friction/estimator)
-- [See Japan Bridge Friction Series](https://solastudio.studio/international/business/japan-bridge-friction)
-
----
-
 ## Services
 
 ### Frontend Partner
@@ -56,22 +35,6 @@ internal discussion — using the user's own inputs and assumptions.
 Ongoing frontend implementation support inside an existing team and
 codebase. Useful when frontend work needs to keep moving, but opening
 a full-time role is not the right next step.
-
-### Japan Bridge
-
-Japan-facing UX, messaging, structure, and review support for teams
-preparing or improving Japan-facing pages, flows, and conversion paths.
-
-Japan Bridge currently includes three routes:
-
-- **Japan Bridge UX & Messaging Design** — for teams preparing
-  Japan-facing materials before design or production.
-- **Japan Bridge Review** — for teams with existing reviewable
-  Japan-facing pages, messages, or flows.
-- **Japan Bridge Friction Series** — for teams focused on one existing
-  Japan-facing conversion flow, covering the path from a rough estimate
-  of possible missed opportunity to friction visibility, correction
-  specification, and implementation where needed.
 
 ### Accessibility Review & Remediation Support
 
