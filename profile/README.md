@@ -1,11 +1,13 @@
 # Sola Studio
 
-Sola Studio is an independent frontend-focused practice run by 
+![Sola Studio Logo and message](./images/logo-message.png)
+
+Sola Studio is an independent frontend-focused practice run by
 [Yoko Shiina](https://github.com/yokoworks).
 
-The studio supports teams with frontend implementation, Japan-facing 
-UX and messaging, accessibility-aware UI, and practical support where 
-interface, communication, and implementation decisions need to become 
+The studio supports teams with frontend implementation, Japan-facing
+UX and messaging, accessibility-aware UI, and practical support where
+interface, communication, and implementation decisions need to become
 clearer.
 
 ---
@@ -14,12 +16,12 @@ clearer.
 
 ### Contrastly — Open-source Tailwind Color Contrast Checker
 
-![Contrastly demo](./images/contrastly-demo.gif)
+![Contrastly demo](./images/contrastly-preview.gif)
 
-A lightweight open-source color contrast checker for Tailwind CSS 
+A lightweight open-source color contrast checker for Tailwind CSS
 palettes, custom hex values, and semantic color token decisions.
 
-Built for frontend developers, designers, and anyone who needs to check 
+Built for frontend developers, designers, and anyone who needs to check
 WCAG contrast quickly while working on UI color decisions.
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Accessibility-aware UI
@@ -31,13 +33,13 @@ WCAG contrast quickly while working on UI color decisions.
 
 ### Conversion Leak Estimator — Free Estimator for Japan-facing Conversion Friction
 
-![Conversion Leak Estimator demo](./images/estimator-demo.gif)
+![Conversion Leak Estimator demo](./images/estimator-preview.gif)
 
-A free browser-based estimator for putting a rough number on possible 
+A free browser-based estimator for putting a rough number on possible
 missed opportunity caused by friction on a Japan-facing conversion flow.
 
-Built as part of Japan Bridge Friction Series. Designed to make a 
-problem that often stays vague easier to size, frame, and bring into 
+Built as part of Japan Bridge Friction Series. Designed to make a
+problem that often stays vague easier to size, frame, and bring into
 internal discussion — using the user's own inputs and assumptions.
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Accessibility-aware UI
@@ -50,31 +52,36 @@ internal discussion — using the user's own inputs and assumptions.
 ## Services
 
 ### Frontend Partner
-Ongoing frontend implementation support inside an existing team and 
-codebase. Useful when frontend work needs to keep moving, but opening 
+
+Ongoing frontend implementation support inside an existing team and
+codebase. Useful when frontend work needs to keep moving, but opening
 a full-time role is not the right next step.
 
 ### Japan Bridge
-Japan-facing UX, messaging, structure, and review support for teams 
+
+Japan-facing UX, messaging, structure, and review support for teams
 preparing or improving Japan-facing pages, flows, and conversion paths.
 
 Japan Bridge currently includes three routes:
-- **Japan Bridge UX & Messaging Design** — for teams preparing 
+
+- **Japan Bridge UX & Messaging Design** — for teams preparing
   Japan-facing materials before design or production.
-- **Japan Bridge Review** — for teams with existing reviewable 
+- **Japan Bridge Review** — for teams with existing reviewable
   Japan-facing pages, messages, or flows.
-- **Japan Bridge Friction Series** — for teams focused on one existing 
-  Japan-facing conversion flow, covering the path from a rough estimate 
-  of possible missed opportunity to friction visibility, correction 
+- **Japan Bridge Friction Series** — for teams focused on one existing
+  Japan-facing conversion flow, covering the path from a rough estimate
+  of possible missed opportunity to friction visibility, correction
   specification, and implementation where needed.
 
 ### Accessibility Review & Remediation Support
-Scoped accessibility review with prioritised findings and practical 
-next steps. Remediation support available for agreed issues based on 
+
+Scoped accessibility review with prioritised findings and practical
+next steps. Remediation support available for agreed issues based on
 review findings.
 
 ### UI/UX and Interface Clarity Support
-Review and structuring support for existing pages, forms, flows, 
+
+Review and structuring support for existing pages, forms, flows,
 web apps, and implementation-facing screen decisions.
 
 ---
@@ -94,7 +101,7 @@ web apps, and implementation-facing screen decisions.
 ## Repository visibility
 
 Most Sola Studio repositories are private client or studio work.
-Public repositories are shared where there is a clear reason to 
+Public repositories are shared where there is a clear reason to
 publish code, documentation, or open tools.
 
 ---
