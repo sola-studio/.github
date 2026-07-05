@@ -39,8 +39,8 @@ internal discussion — using the user's own inputs and assumptions.
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Accessibility-aware UI
 
-- [Try the estimator](https://solastudio.studio/international/business/conversion-friction/estimator)
-- [See Conversion Friction Series](https://solastudio.studio/international/business/conversion-friction)
+- [Try the estimator](https://solastudio.studio/business/conversion-friction/estimator)
+- [See Conversion Friction Series](https://solastudio.studio/business/conversion-friction)
 
 ---
 
