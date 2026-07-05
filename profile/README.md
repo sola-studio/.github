@@ -1,7 +1,5 @@
 # Sola Studio
 
-![Sola Studio Logo and message](./images/logo-title.png)
-
 Sola Studio is an independent frontend-focused practice run by
 [Yoko Shiina](https://github.com/yokoworks).
 
