@@ -82,4 +82,4 @@ publish code, documentation, or open tools.
 
 ## Website
 
-[https://solastudio.studio/international](https://solastudio.studio/international)
+[https://solastudio.studio](https://solastudio.studio)
