@@ -21,6 +21,13 @@ palettes, custom hex values, and semantic color token decisions.
 Built for frontend developers, designers, and anyone who needs to check
 WCAG contrast quickly while working on UI color decisions.
 
+**Stack:** Next.js / TypeScript / Tailwind CSS / Accessibility-aware UI
+
+- [Open app](https://contrastly.solastudio.studio/)
+- [Source code](https://github.com/sola-studio/contrastly)
+
+---
+
 ### Conversion Leak Estimator — Free Estimator for Conversion Flow Friction
 
 ![Conversion Leak Estimator demo](./images/estimator-preview.gif)
@@ -36,13 +43,6 @@ internal discussion — using the user's own inputs and assumptions.
 
 - [Try the estimator](https://solastudio.studio/international/business/conversion-friction/estimator)
 - [See Conversion Friction Series](https://solastudio.studio/international/business/conversion-friction)
-
----
-
-**Stack:** Next.js / TypeScript / Tailwind CSS / Accessibility-aware UI
-
-- [Open app](https://contrastly.solastudio.studio/)
-- [Source code](https://github.com/sola-studio/contrastly)
 
 ---
 
