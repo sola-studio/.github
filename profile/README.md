@@ -5,7 +5,7 @@
 Sola Studio is an independent frontend-focused practice run by
 [Yoko Shiina](https://github.com/yokoworks).
 
-The studio supports teams with frontend implementation, UX and messaging, accessibility-aware UI, and practical support where interface, communication, and implementation decisions need to become clearer.
+The studio supports teams with interface clarity and UX review, frontend implementation, accessibility review and remediation, and practical support where screen, flow, or implementation decisions need to become clearer.
 
 ---
 
@@ -30,22 +30,17 @@ WCAG contrast quickly while working on UI color decisions.
 
 ## Services
 
+### Interface Clarity
+
+Structured review of screens, copy, and flows — mapping where users hesitate, stop, or misread. Available as UI/UX Review for broader scoped work, or as Conversion Friction Series for a single defined conversion flow.
+
 ### Frontend Partner
 
-Ongoing frontend implementation support inside an existing team and
-codebase. Useful when frontend work needs to keep moving, but opening
-a full-time role is not the right next step.
+Ongoing frontend implementation support inside an existing team and codebase. Useful when frontend work needs to keep moving, but opening a full-time role is not the right next step.
 
 ### Accessibility Review & Remediation Support
 
-Scoped accessibility review with prioritised findings and practical
-next steps. Remediation support available for agreed issues based on
-review findings.
-
-### UI/UX and Interface Clarity Support
-
-Review and structuring support for existing pages, forms, flows,
-web apps, and implementation-facing screen decisions.
+Scoped accessibility review with prioritised findings and practical next steps. Remediation support available for agreed issues based on review findings.
 
 ---
 
