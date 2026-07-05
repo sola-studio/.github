@@ -1,6 +1,6 @@
 # Sola Studio
 
-![Sola Studio Logo and message](./images/logo-message.png)
+![Sola Studio Logo and message](./images/logo-title.png)
 
 Sola Studio is an independent frontend-focused practice run by
 [Yoko Shiina](https://github.com/yokoworks).
@@ -20,6 +20,24 @@ palettes, custom hex values, and semantic color token decisions.
 
 Built for frontend developers, designers, and anyone who needs to check
 WCAG contrast quickly while working on UI color decisions.
+
+### Conversion Leak Estimator — Free Estimator for Conversion Flow Friction
+
+![Conversion Leak Estimator demo](./images/estimator-preview.gif)
+
+A free browser-based estimator for putting a rough number on possible
+missed opportunity caused by friction on a conversion flow.
+
+Built as part of Conversion Friction Series. Designed to make a
+problem that often stays vague easier to size, frame, and bring into
+internal discussion — using the user's own inputs and assumptions.
+
+**Stack:** Next.js / TypeScript / Tailwind CSS / Accessibility-aware UI
+
+- [Try the estimator](https://solastudio.studio/international/business/conversion-friction/estimator)
+- [See Conversion Friction Series](https://solastudio.studio/international/business/conversion-friction)
+
+---
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Accessibility-aware UI
 
