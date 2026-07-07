@@ -28,7 +28,7 @@ WCAG contrast quickly while working on UI color decisions.
 
 ### Conversion Leak Estimator — Free Estimator for Conversion Flow Friction
 
-![Conversion Leak Estimator demo](./images/estimator-preview.gif)
+![Conversion Leak Estimator demo](./images/estimator-preview-n.gif)
 
 A free browser-based estimator for putting a rough number on possible
 missed opportunity caused by friction on a conversion flow.
