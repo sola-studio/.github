@@ -1,9 +1,14 @@
 # Sola Studio
 
-Sola Studio is an independent frontend-focused practice run by
-[Yoko Shiina](https://github.com/yokoworks).
+Sola Studio is an independent practice run by
+[Yoko Shiina](https://github.com/yokoworks), working across interface clarity,
+frontend implementation, and accessibility — grounded in direct frontend
+engineering experience (React, Next.js, TypeScript).
 
-The studio supports teams with interface clarity and UX review, frontend implementation, accessibility review and remediation, and practical support where screen, flow, or implementation decisions need to become clearer.
+The studio reviews user flows, locates friction points across copy,
+information structure, and implementation, and translates findings into
+practical outputs — including dev-ready specifications where implementation
+is the next step.
 
 ---
 
