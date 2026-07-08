@@ -54,15 +54,15 @@ internal discussion — using the user's own inputs and assumptions.
 
 ### Interface Clarity
 
-Structured review of screens, copy, and flows — mapping where users hesitate, stop, or misread. Available as UI/UX Review for broader scoped work, or as Conversion Friction Series for a single defined conversion flow.
+Structured review of screens, copy, and flows — mapping where users hesitate, stop, or misread. Available as a scoped UI/UX Review, or as Conversion Friction Series for a single defined conversion flow.
 
-### Frontend Partner
+### Frontend implementation
 
-Ongoing frontend implementation support inside an existing team and codebase. Useful when frontend work needs to keep moving, but opening a full-time role is not the right next step.
+Ongoing or scoped frontend support for React, Next.js, TypeScript, forms, flows, API collaboration, refactoring, and component-based interfaces.
 
-### Accessibility Review & Remediation Support
+### Accessibility
 
-Scoped accessibility review with prioritised findings and practical next steps. Remediation support available for agreed issues based on review findings.
+Accessibility review and selected frontend remediation — understanding issues, prioritizing findings, and addressing selected accessibility concerns within a realistic scoped route.
 
 ---
 
