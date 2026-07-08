@@ -1,14 +1,15 @@
 # Sola Studio
+**Interface Clarity · Frontend · Accessibility**
 
 Sola Studio is an independent practice run by
-[Yoko Shiina](https://github.com/yokoworks), working across interface clarity,
-frontend implementation, and accessibility — grounded in direct frontend
-engineering experience (React, Next.js, TypeScript).
+[Yoko Shiina](https://github.com/yokoworks), aligning interface clarity with
+technical realities to move products forward.
 
-The studio reviews user flows, locates friction points across copy,
-information structure, and implementation, and translates findings into
-practical outputs — including dev-ready specifications where implementation
-is the next step.
+Interface friction rarely sits in one layer — it spans copy, information
+structure, flow behavior, and implementation constraints together. Sola
+Studio reviews user flows, locates friction points across those layers, and
+translates findings into practical outputs that product teams can act on —
+including dev-ready specifications where implementation is the next step.
 
 ---
 
