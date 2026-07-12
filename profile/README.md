@@ -39,14 +39,14 @@ WCAG contrast quickly while working on UI color decisions.
 A free browser-based estimator for putting a rough number on possible
 missed opportunity caused by friction on a conversion flow.
 
-Built as part of Conversion Friction Series. Designed to make a
-problem that often stays vague easier to size, frame, and bring into
-internal discussion — using the user's own inputs and assumptions.
+Built as part of Conversion & Accessibility Series. 
+Designed to make a problem that often stays vague easier to size, frame, 
+and bring into internal discussion — using the user's own inputs and assumptions.
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Accessibility-aware UI
 
-- [Try the estimator](https://solastudio.studio/business/conversion-friction/estimator)
-- [See Conversion Friction Series](https://solastudio.studio/business/conversion-friction)
+- [Try the estimator](https://solastudio.studio/business/conversion-a11y/estimator)
+- [See Conversion & Accessibility Series](https://solastudio.studio/business/conversion-a11y)
 
 ---
 
@@ -54,15 +54,15 @@ internal discussion — using the user's own inputs and assumptions.
 
 ### Interface Clarity
 
-Structured review of screens, copy, and flows — mapping where users hesitate, stop, or misread. Available as a scoped UI/UX Review, or as Conversion Friction Series for a single defined conversion flow.
+Structured review of screens, copy, and flows — mapping where users hesitate, stop, or misread. Available as a scoped UI/UX Review, or as Conversion & Accessibility Series for a single defined conversion flow.
 
 ### Frontend implementation
 
-Ongoing or scoped frontend support for React, Next.js, TypeScript, forms, flows, API collaboration, refactoring, and component-based interfaces.
+Frontend implementation across React, Next.js, TypeScript — forms, flows, components, and API integration.
 
 ### Accessibility
 
-Accessibility review and selected frontend remediation — understanding issues, prioritizing findings, and addressing selected accessibility concerns within a realistic scoped route.
+Accessibility examined as part of the interface — where forms, flows, states, and components fall short of WCAG-based expectations, from automated-detectable issues through to deeper review.
 
 ---
 
