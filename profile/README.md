@@ -62,7 +62,7 @@ Frontend implementation across React, Next.js, TypeScript — forms, flows, comp
 
 ### Accessibility
 
-Accessibility examined as part of the interface — where forms, flows, states, and components fall short of WCAG-based expectations, from automated-detectable issues through to deeper review.
+Accessibility as part of the interface — where forms, flows, states, and components fall short of WCAG-based expectations, from automated-detectable issues through to deeper review.
 
 ---
 
