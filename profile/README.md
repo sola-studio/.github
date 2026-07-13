@@ -1,5 +1,5 @@
 # Sola Studio
-**Interface Clarity · Frontend · Accessibility**
+**Interface Clarity · Accessibility · Frontend**
 
 Sola Studio is an independent practice run by
 [Yoko Shiina](https://github.com/yokoworks), aligning interface clarity with
@@ -56,13 +56,13 @@ and bring into internal discussion — using the user's own inputs and assumptio
 
 Structured review of screens, copy, and flows — mapping where users hesitate, stop, or misread. Available as a scoped UI/UX Review, or as Conversion & Accessibility Series for a single defined conversion flow.
 
-### Frontend implementation
-
-Frontend implementation across React, Next.js, TypeScript — forms, flows, components, and API integration.
-
 ### Accessibility
 
 Accessibility as part of the interface — where forms, flows, states, and components fall short of WCAG-based expectations, from automated-detectable issues through to deeper review.
+
+### Frontend implementation
+
+Frontend implementation across React, Next.js, TypeScript — forms, flows, components, and API integration.
 
 ---
 
