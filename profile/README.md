@@ -1,4 +1,5 @@
 # Sola Studio
+
 **Interface Clarity · Accessibility · Frontend**
 
 Sola Studio is an independent practice run by
@@ -17,7 +18,7 @@ including dev-ready specifications where implementation is the next step.
 
 ### Contrastly — Open-source Tailwind Color Contrast Checker
 
-![Contrastly demo](./images/contrastly-preview.gif)
+![Contrastly demo](./images/contrastly.gif)
 
 A lightweight open-source color contrast checker for Tailwind CSS
 palettes, custom hex values, and semantic color token decisions.
@@ -39,8 +40,8 @@ WCAG contrast quickly while working on UI color decisions.
 A free browser-based estimator for putting a rough number on possible
 missed opportunity caused by friction on a conversion flow.
 
-Built as part of Conversion & Accessibility Series. 
-Designed to make a problem that often stays vague easier to size, frame, 
+Built as part of Conversion & Accessibility Series.
+Designed to make a problem that often stays vague easier to size, frame,
 and bring into internal discussion — using the user's own inputs and assumptions.
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Accessibility-aware UI
