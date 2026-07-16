@@ -26,7 +26,7 @@ palettes, custom hex values, and semantic color token decisions.
 Built for frontend developers, designers, and anyone who needs to check
 WCAG contrast quickly while working on UI color decisions.
 
-**Stack:** Next.js / TypeScript / Tailwind CSS / Accessibility-aware UI
+**Stack:** Next.js / TypeScript / Tailwind CSS / Accessible UI
 
 - [Open app](https://contrastly.solastudio.studio/)
 - [Source code](https://github.com/sola-studio/contrastly)
@@ -44,7 +44,7 @@ Built as part of Conversion & Accessibility Series.
 Designed to make a problem that often stays vague easier to size, frame,
 and bring into internal discussion — using the user's own inputs and assumptions.
 
-**Stack:** Next.js / TypeScript / Tailwind CSS / Accessibility-aware UI
+**Stack:** Next.js / TypeScript / Tailwind CSS / Accessible UI
 
 - [Try the estimator](https://solastudio.studio/business/conversion-a11y/estimator)
 - [See Conversion & Accessibility Series](https://solastudio.studio/business/conversion-a11y)
@@ -72,7 +72,7 @@ Frontend implementation across React, Next.js, TypeScript — forms, flows, comp
 - React / Next.js / TypeScript
 - Tailwind CSS / Radix UI
 - Semantic HTML / ARIA / Keyboard and focus behavior
-- Accessibility-aware frontend implementation
+- Accessible frontend implementation
 - API integration and data-flow collaboration
 - UI implementation for product screens, internal tools, and dashboards
 - Documentation and implementation notes for product-facing decisions
