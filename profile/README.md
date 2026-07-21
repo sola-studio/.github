@@ -1,12 +1,12 @@
 # Sola Studio
 
-**Interface Clarity · Web Accessibility · UI Implmentation**
+**Interface Clarity · Web Accessibility · UI Implementation**
 
 Sola Studio is an independent practice run by
 [Yoko Shiina](https://github.com/yokoworks), aligning interface clarity with
 technical realities to move products forward.
 
-Interface friction rarely sits in one layer — it spans content, information
+Interface friction rarely sits in one layer — it spans wording, information
 structure, flow behavior, and implementation constraints together. Sola
 Studio reviews user flows, locates friction points across those layers, and
 translates findings into practical outputs that product teams can act on —
@@ -55,7 +55,7 @@ and bring into internal discussion — using the user's own inputs and assumptio
 
 ### Interface Clarity
 
-Structured review of screens, content, flows, and context — mapping where users hesitate, stop, or misread. Available as a scoped UI/UX Review, or as Conversion & Accessibility Series for a single defined conversion flow, with a practical first layer of accessibility included.
+Structured review of screens, wording, and flows — mapping where users hesitate, stop, or misread. Available as a scoped UI/UX Review, or as Conversion & Accessibility Series for a single defined conversion flow, with a practical first layer of accessibility included.
 
 ### Web Accessibility
 
