@@ -1,6 +1,6 @@
 # Sola Studio
 
-**Interface Clarity · Web Accessibility · UI Implementation**
+**Interface Clarity · UI Implementation**
 
 Sola Studio is an independent practice run by
 [Yoko Shiina](https://github.com/yokoworks), aligning interface clarity with
@@ -46,8 +46,7 @@ and bring into internal discussion — using the user's own inputs and assumptio
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Accessible UI
 
-- [Try the estimator](https://solastudio.studio/business/conversion-a11y/estimator)
-- [See Conversion & Accessibility Series](https://solastudio.studio/business/conversion-a11y)
+- [Try the estimator](https://solastudio.studio/business/estimator)
 
 ---
 
@@ -55,11 +54,7 @@ and bring into internal discussion — using the user's own inputs and assumptio
 
 ### Interface Clarity
 
-Structured review of screens, wording, and flows — mapping where users hesitate, stop, or misread. Available as a scoped UI/UX Review, or as Conversion & Accessibility Series for a single defined conversion flow, with a practical first layer of accessibility included.
-
-### Web Accessibility
-
-Web Accessibility as part of the interface — where forms, flows, states, and components fall short of WCAG-based expectations. Covers review, implementation scoping, and selected frontend remediation.
+Structured review of screens, wording, and flows — mapping where users hesitate, stop, or misread.
 
 ### UI Implementation
 
@@ -72,7 +67,6 @@ UI implementation across React, Next.js, TypeScript — forms, flows, components
 - React / Next.js / TypeScript
 - Tailwind CSS / Radix UI
 - Semantic HTML / ARIA / Keyboard and focus behavior
-- Accessible frontend implementation
 - API integration and data-flow collaboration
 - UI implementation for product screens, internal tools, and dashboards
 - Documentation and implementation notes for product-facing decisions
