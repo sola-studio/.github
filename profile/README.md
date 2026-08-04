@@ -1,10 +1,10 @@
 # Sola Studio
 
-**Interface Clarity · UI Implementation**
+**UX Review · Dev-Ready Specs · UI Implementation**
 
 Sola Studio is an independent practice run by
-[Yoko Shiina](https://github.com/yokoworks), aligning interface clarity with
-technical realities to move products forward.
+[Yoko Shiina](https://github.com/yokoworks), working on the gaps between
+screens, wording, and implementation.
 
 Interface friction rarely sits in one layer — it spans wording, information
 structure, flow behavior, and implementation constraints together. Sola
@@ -40,7 +40,6 @@ WCAG contrast quickly while working on UI color decisions.
 A free browser-based estimator for putting a rough number on possible
 missed opportunity caused by friction on a conversion flow.
 
-Built as part of Conversion & Accessibility Series.
 Designed to make a problem that often stays vague easier to size, frame,
 and bring into internal discussion — using the user's own inputs and assumptions.
 
@@ -52,12 +51,10 @@ and bring into internal discussion — using the user's own inputs and assumptio
 
 ## Services
 
-### Interface Clarity
-
+### UI/UX Review
 Structured review of screens, wording, and flows — mapping where users hesitate, stop, or misread.
 
 ### UI Implementation
-
 UI implementation across React, Next.js, TypeScript — forms, flows, components, and API integration.
 
 ---
