@@ -1,6 +1,6 @@
 # Sola Studio
 
-**UX Review · Dev-Ready Specs · UI Implementation**
+**UX Review · Dev-Ready Specs · Frontend Implementation**
 
 Sola Studio is an independent practice run by
 [Yoko Shiina](https://github.com/yokoworks), working on the gaps between
@@ -8,9 +8,10 @@ screens, wording, and implementation.
 
 Interface friction rarely sits in one layer — it spans wording, information
 structure, flow behavior, and implementation constraints together. Sola
-Studio reviews user flows, locates friction points across those layers, and
-translates findings into practical outputs that product teams can act on —
-including dev-ready specifications where implementation is the next step.
+Studio reviews user flows, locates friction points across those layers, and 
+translates findings into practical outputs that product teams can act on 
+— dev-ready specifications when another team is building, 
+and the implementation itself when the work continues into code.
 
 ---
 
@@ -51,11 +52,11 @@ and bring into internal discussion — using the user's own inputs and assumptio
 
 ## Services
 
-### UI/UX Review
+### [UI/UX Review](https://solastudio.studio/services/ui-ux-review)
 Structured review of screens, wording, and flows — mapping where users hesitate, stop, or misread.
 
-### UI Implementation
-UI implementation across React, Next.js, TypeScript — forms, flows, components, and API integration.
+### [Frontend Partner](https://solastudio.studio/services/frontend-partner)
+Ongoing frontend implementation across React, Next.js, TypeScript — forms, flows, components, and API integration.
 
 ---
 
@@ -65,7 +66,7 @@ UI implementation across React, Next.js, TypeScript — forms, flows, components
 - Tailwind CSS / Radix UI
 - Semantic HTML / ARIA / Keyboard and focus behavior
 - API integration and data-flow collaboration
-- UI implementation for product screens, internal tools, and dashboards
+- Frontend implementation for product screens, internal tools, and dashboards
 - Documentation and implementation notes for product-facing decisions
 
 ---
