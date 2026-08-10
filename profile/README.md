@@ -1,6 +1,6 @@
 # Sola Studio
 
-**UX Review · Dev-Ready Specs · Frontend Implementation**
+**UX Review · Accessibility Remediation · Frontend Implementation**
 
 Sola Studio is an independent practice run by
 [Yoko Shiina](https://github.com/yokoworks), working on the gaps between
