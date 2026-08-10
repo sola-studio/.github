@@ -55,6 +55,9 @@ and bring into internal discussion — using the user's own inputs and assumptio
 ### [UI/UX Review](https://solastudio.studio/services/ui-ux-review)
 Structured review of screens, wording, and flows — mapping where users hesitate, stop, or misread.
 
+### [Accessibility Remediation](https://solastudio.studio/services/accessibility)
+Frontend remediation from external audit findings — forms, focus, keyboard operation, semantic HTML, ARIA, and component states.
+
 ### [Frontend Partner](https://solastudio.studio/services/frontend-partner)
 Ongoing frontend implementation across React, Next.js, TypeScript — forms, flows, components, and API integration.
 
