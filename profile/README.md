@@ -7,11 +7,12 @@ Sola Studio is an independent practice run by
 screens, wording, and implementation.
 
 Interface friction rarely sits in one layer — it spans wording, information
-structure, flow behavior, and implementation constraints together. Sola
-Studio reviews user flows, locates friction points across those layers, and 
+structure, flow behavior, and implementation constraints together. 
+
+Sola Studio reviews user flows, locates friction points across those layers, and 
 translates findings into practical outputs that product teams can act on 
-— dev-ready specifications when another team is building, 
-and the implementation itself when the work continues into code.
+— sometimes findings and direction, sometimes the implementation itself 
+when the work continues into code.
 
 ---
 
