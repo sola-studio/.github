@@ -1,6 +1,6 @@
 # Sola Studio
 
-**UX Review · Accessibility Remediation · Frontend Implementation**
+**UAccessibility Remediation · Frontend Implementation**
 
 Sola Studio is an independent practice run by
 [Yoko Shiina](https://github.com/yokoworks), working on the gaps between
@@ -52,9 +52,6 @@ and bring into internal discussion — using the user's own inputs and assumptio
 ---
 
 ## Services
-
-### [UI/UX Review](https://solastudio.studio/services/ui-ux-review)
-Structured review of screens, wording, and flows — mapping where users hesitate, stop, or misread.
 
 ### [Accessibility Remediation](https://solastudio.studio/services/accessibility)
 Frontend remediation from external audit findings — forms, focus, keyboard operation, semantic HTML, ARIA, and component states.
