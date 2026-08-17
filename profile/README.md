@@ -39,11 +39,11 @@ Designed to make a problem that often stays vague easier to size, frame, and bri
 
 ## Services
 
-### [Accessibility Remediation](https://solastudio.studio/accessibility)
-Frontend remediation from external audit findings — forms, focus, keyboard operation, semantic HTML, ARIA, and component states.
-
 ### [Frontend Partner](https://solastudio.studio/frontend-partner)
 Ongoing frontend implementation across React, Next.js, TypeScript — forms, flows, components, and API integration.
+
+### [Accessibility Remediation](https://solastudio.studio/accessibility)
+Frontend remediation from external audit findings — forms, focus, keyboard operation, semantic HTML, ARIA, and component states.
 
 ---
 
