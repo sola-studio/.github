@@ -1,8 +1,8 @@
 # Sola Studio
 
-**Frontend Implementation · Accessibility Remediation**
+**Web Development · Accessibility Remediation**
 
-Sola Studio is a small independent studio offering two services to product teams: ongoing frontend implementation, and accessibility remediation from external findings.
+Sola Studio is a small independent studio offering web development across websites, ecommerce and product frontends, and accessibility remediation from external findings.
 
 ---
 
@@ -14,7 +14,7 @@ Sola Studio is a small independent studio offering two services to product teams
 
 A lightweight open-source color contrast checker for Tailwind CSS palettes, custom hex values, and semantic color token decisions.
 
-Built for frontend developers, designers, and anyone who needs to check WCAG contrast quickly while working on UI color decisions.
+Built for developers, designers, and anyone who needs to check WCAG contrast quickly while working on UI color decisions.
 
 **Stack:** Next.js / TypeScript / Tailwind CSS / Accessible UI
 
@@ -23,27 +23,16 @@ Built for frontend developers, designers, and anyone who needs to check WCAG con
 
 ---
 
-### Conversion Leak Estimator — Free Estimator for Conversion Flow Friction
-
-![Conversion Leak Estimator demo](./images/estimator-preview-n.gif)
-
-A free browser-based estimator for putting a rough number on possible missed opportunity caused by friction on a conversion flow.
-
-Designed to make a problem that often stays vague easier to size, frame, and bring into internal discussion — using the user's own inputs and assumptions.
-
-**Stack:** Next.js / TypeScript / Tailwind CSS / Accessible UI
-
-- [Try the estimator](https://solastudio.studio/estimator)
-
----
-
 ## Services
 
-### [Frontend Partner](https://solastudio.studio/frontend-partner)
-Ongoing frontend implementation across React, Next.js, TypeScript — forms, flows, components, and API integration.
+### [Websites & Ecommerce Development](https://solastudio.studio/websites-ecommerce)
+Websites, online stores and campaign pages for businesses and brands — HTML, CSS, JavaScript, WordPress and Shopify. Available as a defined project or ongoing support.
+
+### [Frontend Development](https://solastudio.studio/frontend-development)
+Frontend implementation across React, Next.js and TypeScript — features, components, forms, flows and API integration. Available as a defined project or ongoing support.
 
 ### [Accessibility Remediation](https://solastudio.studio/accessibility)
-Frontend remediation from external audit findings — forms, focus, keyboard operation, semantic HTML, ARIA, and component states.
+Frontend remediation from external audit findings — forms, focus, keyboard operation, semantic HTML, ARIA and component states.
 
 ---
 
@@ -54,6 +43,7 @@ Frontend remediation from external audit findings — forms, focus, keyboard ope
 - Semantic HTML / ARIA / Keyboard and focus behavior
 - API integration and data-flow collaboration
 - Frontend implementation for product screens, internal tools, and dashboards
+- WordPress / Shopify
 - Documentation and implementation notes for product-facing decisions
 
 ---
