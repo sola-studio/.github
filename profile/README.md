@@ -16,7 +16,7 @@ A lightweight open-source color contrast checker for Tailwind CSS palettes, cust
 
 Built for developers, designers, and anyone who needs to check WCAG contrast quickly while working on UI color decisions.
 
-**Stack:** Next.js / TypeScript / Tailwind CSS / Accessible UI
+**Stack:** Next.js / TypeScript / Tailwind CSS / Radix UI / shadcn/ui / Playwright with Axe
 
 - [Open app](https://contrastly.solastudio.studio/)
 - [Source code](https://github.com/sola-studio/contrastly)
